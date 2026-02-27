@@ -120,11 +120,6 @@ nav a:hover {
   border-color: var(--accent);
 }
 
-.project-icon {
-  font-size: 3rem;
-  margin-bottom: 1rem;
-}
-
 .project-card h3 {
   font-size: 1.3rem;
   margin-bottom: 0.5rem;
@@ -151,14 +146,6 @@ nav a:hover {
   border-radius: 4px;
   font-size: 0.8rem;
   border: 1px solid var(--border);
-}
-
-.project-stats {
-  display: flex;
-  gap: 1rem;
-  margin-bottom: 1.5rem;
-  font-size: 0.85rem;
-  color: var(--text3);
 }
 
 .project-links {
